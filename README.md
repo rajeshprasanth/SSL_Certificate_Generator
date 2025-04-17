@@ -193,4 +193,6 @@ logs/2025-04-17_12-30-45.log
   
 ## License
 
-This script is open-source and free to use. You are free to modify it according to your needs.
+This script is licensed under the GNU General Public License v3.0 (GPL-3.0).
+
+You can freely use, modify, and distribute this script under the terms of the GPL-3.0 license. You must ensure that any distributed version of this script (or any modified version) is also licensed under GPL-3.0, and the full text of the license is included with the distribution.
